@@ -1,7 +1,6 @@
 #include <iostream>
 #include <algorithm>
 #include <set>
-#include <tuple>
 
 using namespace std;
 
@@ -20,6 +19,7 @@ int main() {
     } else {
         cout << "no" << "\n";
     }
+
 
 
 }
